@@ -7,7 +7,7 @@
 - How to make HTTP GET request
 - How to make HTTP POST/PUT/etc. request
 - How to fetch JSON resources
-- How to manipulate data from an external service
+- How to manipulate data from an external service.
 
 ### Resources used
 - [Python Documentation](https://docs.python.org/3/howto/urllib2.html)
